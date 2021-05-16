@@ -5,7 +5,7 @@ automatic recognition of text on scanned images has enabled many applications su
 In this project we built a model which can classify a new image to an arabic characters with an accuracy of 97.1% when testing on more than 3360 different images.
 
 ### Dataset
-https://www.kaggle.com/mloey1/ahcd1 of the dataset that was used
+[Link](https://www.kaggle.com/mloey1/ahcd1) of the dataset that was used
 
 ### Authors
 AlaZebdeh      
