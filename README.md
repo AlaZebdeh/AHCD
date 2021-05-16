@@ -7,7 +7,7 @@ In this project we built a model which can classify a new image to an arabic cha
 Dataset
 link of the dataset that was used
 
-## Authors
+# Authors
 
 AlaZebdeh      
 MonebKhaled
